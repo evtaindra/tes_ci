@@ -1,0 +1,19 @@
+/** Override Bootstrap **/
+.wrapper{
+    width: 980px;
+    margin: 0 auto;
+}
+#dashboard-main{
+    background: #f2f2f2;
+    min-height: 500px;
+}
+#dashboard-site{
+    background: #00f2fa;
+    min-height: 500px;
+}
+body {
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
